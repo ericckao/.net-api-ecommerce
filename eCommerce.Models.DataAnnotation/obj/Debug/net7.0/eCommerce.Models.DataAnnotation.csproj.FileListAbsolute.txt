@@ -1,0 +1,12 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\bin\Debug\net7.0\eCommerce.Models.DataAnnotation.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\bin\Debug\net7.0\eCommerce.Models.DataAnnotation.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\bin\Debug\net7.0\eCommerce.Models.DataAnnotation.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\refint\eCommerce.Models.DataAnnotation.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\eCommerce.Models.DataAnnotation.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\CSharp-ExerciciosDeFixacao\25 - API\eCommerce\eCommerce.Models.DataAnnotation\obj\Debug\net7.0\ref\eCommerce.Models.DataAnnotation.dll

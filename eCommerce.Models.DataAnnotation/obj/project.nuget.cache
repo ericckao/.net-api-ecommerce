@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APRwFYT1SqLQfnn/jLoeezMS30yXHoxgJ2wtw8r6/rPmgRjmKKbrU6a/2B4GfS4ko3SW0KsVRamt//ZVO5gtLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\eCommerce\\eCommerce.Models.DataAnnotation\\eCommerce.Models.DataAnnotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
